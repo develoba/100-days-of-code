@@ -1,13 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 4 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Practiced Code by solving to easy LeetCode challenges. I also practiced CSS with CSSBattle and then I watched CS50's 3rd week lecture. I started a FrontendMentor challenge to continue on my HTML and CSS skills practicing.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
